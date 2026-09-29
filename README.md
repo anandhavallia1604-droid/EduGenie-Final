@@ -48,7 +48,3 @@ Preparing project documentation, architecture details, implementation details, a
 Phase 8: Project Demonstration
 Demonstrating the complete EduGenie application and its AI-powered educational features.
 
-Project Demo Video
-EduGenie – Google Gemini Powered Learning Assistant | Project Demonstration
-## Demo Video
-[Watch Demo Video on Google Drive](https://drive.google.com/file/d/1s3nXdoLaOJ7i951R5Y1l4OhI-TzyFj-4/view?usp=sharing)
